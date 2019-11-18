@@ -1,0 +1,16 @@
+<!--pages/test/test.wxml-->
+<view>
+
+</view>
+
+
+
+
+
+
+<template name="magItem">
+  <view>
+    <text>{{index}}:{{msg}}</text>
+    <text>time:{{time}}</text>
+  </view>
+</template>
